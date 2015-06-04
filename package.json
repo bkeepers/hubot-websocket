@@ -10,7 +10,7 @@
     "adapter",
     "websocket"
   ],
-  "description": "A websocket Adapter for Hubot",
+  "description": "A websocket adapter for Hubot",
   "licenses": "MIT",
   "repository": {
     "type": "git",
